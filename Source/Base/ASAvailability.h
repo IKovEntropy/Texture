@@ -77,7 +77,7 @@
 #endif
 
 #ifndef YOGA
-  #define YOGA __has_include(YOGA_HEADER_PATH)
+//  #define YOGA __has_include(YOGA_HEADER_PATH)
 #endif
 
 #ifdef ASTEXTNODE_EXPERIMENT_GLOBAL_ENABLE
